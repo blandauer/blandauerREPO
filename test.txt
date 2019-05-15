@@ -1,3 +1,8 @@
 print("Hello World");
 print("CC");
+<<<<<<< HEAD
 print("Cloner");
+=======
+
+print("Master");
+>>>>>>> 3da3d869a38f77cadae111fec59697cd18d373b6
